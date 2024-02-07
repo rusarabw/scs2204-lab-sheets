@@ -1,0 +1,8 @@
+                    Java                    |                   Scala 
+                                            |
+*   Object Oriented language                |   *   Object Oriented and Functional Programming
+                                            |       language
+*   More readable                           |   *   Less readable due to nested code
+*   Compilation process is fast             |   *   Compilation process is slow
+*   Doesn't support operator overloading    |   *   Supports operator overloading
+*   Treates functions as objects            |   *   Treates functions as variables  
